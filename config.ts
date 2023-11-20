@@ -1,6 +1,6 @@
 import { Page } from "playwright";
 
-type Config = {
+type Config = {https://anymind-group.gitbook.io/any-x/v/ja-jp/intro/important
   /** URL to start the crawl */
   url: string;
   /** Pattern to match against for links on a page to subsequently crawl */
